@@ -23,4 +23,4 @@ Table dictates the usage of registers;
 
 Results should be interpreted as; 
 
-Input = Out*2^((reg [14]))*3^((reg [13]) )* 5^((reg[12]) )*7^((reg[11]) )*〖11〗^((reg[10]) )*〖13〗^((reg[9]))
+Input = Out x 2^((reg [14])) x 3^((reg [13])) x 5^((reg[12])) x 7^((reg[11])) x 11^((reg[10])) x 13^((reg[9]))
