@@ -1,4 +1,4 @@
-In this project hardware implemetation of 8-bit factorizing using wheel factorization algorithm is applied. The goal of the project is creting a Arithmetic Logic Unit and Register Block with verilog and
+In this project hardware implemetation of 8-bit factorizing using wheel factorization algorithm is applied. The goal of the project is creating a Arithmetic Logic Unit and Register Block with verilog and
 using Final State Machines in Control Unit block, implementing a algorithm that factorize any given 8-bit positive number.  
 
 Main algorithm flow of the project goes like this; 
